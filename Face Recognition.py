@@ -5,7 +5,7 @@ import numpy as np
 # === CONFIGURATION ===
 haar_file = 'haarcascade_frontalface_default.xml'
 datasets_dir = 'datasets'
-person_name = 'Kris'
+person_name = 'Kris' #You should change the person name to train with new image.(Atleast two name labels needed)
 sample_count = 25
 image_size = (130, 100)
 camera_index = 0  # Try 1 if 0 doesn't work
