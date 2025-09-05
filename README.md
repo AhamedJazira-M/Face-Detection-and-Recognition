@@ -27,3 +27,5 @@ Repeat for at least two people.
 
 Script then trains and starts real-time recognition.
 Press `ESC` to exit.
+
+Demo : https://www.linkedin.com/posts/ahamed-jazira2301_facerecognition-computervision-python-activity-7357821262657712130-ByM6?utm_source=share&utm_medium=member_android&rcm=ACoAAEeCTEYBM5NdEGL6hd78YDEWofD4Bl5S1cc
